@@ -1,4 +1,7 @@
 # Car-Insurance-Calculator-
+## Instructions
+1. Open the solution file (`.sln`) in Visual Studio.
+2. Build the project and run it to calculate insurance premiums.
 
 I’ve created a basic Car Insurance Premium Calculator using C# with a Windows Forms interface. The idea behind this tool is to calculate an individual’s car insurance premium based on their age, gender, and accident history. This gives a simplified view of how insurance companies might assess risk and set premiums.
 **User Interface**
